@@ -2,7 +2,7 @@
 # Data Visualization of Flight Delays and Cancellations  
 
 
-In this project, I’ll create visualizations to reveal insights, highlight patterns and tell a story from Flight Delays and Cancellations data set.   
+In this project, I’ll create visualizations to reveal insights, highlight patterns and tell a story from flight delays and cancellations data set.   
 
 ## The Datasets
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset in supporting materials at the bottom of this page.
